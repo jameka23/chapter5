@@ -1,0 +1,23 @@
+body {
+    background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.pageHeader {
+    display: flex;
+    justify-content: center;
+}
+
+.list {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-left: 100px;
+    justify-content: space-around;
+    
+}
+
+.shop {
+    width: 400px;
+    flex-basis: 30%;
+}
